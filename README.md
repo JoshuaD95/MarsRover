@@ -1,5 +1,5 @@
 # MarsRover
-A detailed explanation can be found at: http://jahyacode.blogspot.com
+
 
 Mars Rovers
 ===========
